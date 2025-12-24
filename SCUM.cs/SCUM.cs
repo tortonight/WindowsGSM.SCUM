@@ -44,7 +44,7 @@ namespace WindowsGSM.Plugins
 
         // - Game server default values
         public string Port = "7777"; // Default port
-        public string QueryPort = "7779"; // Default query port. This is the port specified in the Server Manager in the client UI to establish a server connection.
+        public string QueryPort = "27015"; // Default query port. This is the port specified in the Server Manager in the client UI to establish a server connection.
         // TODO: Unsupported option
         public string Defaultmap = "The_Island"; // Default map name
 
