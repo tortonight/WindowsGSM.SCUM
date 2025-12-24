@@ -16,7 +16,7 @@ namespace WindowsGSM.Plugins
         public Plugin Plugin = new Plugin
         {
             name = "WindowsGSM.SCUM", // WindowsGSM.XXXX
-            author = "Soljian",
+            author = "tortonight",
             description = "WindowsGSM plugin for supporting SCUM Dedicated Server",
             version = "1.0.0",
             url = "https://github.com/tortonight/WindowsGSM.SCUM", // Github repository link (Best practice)
